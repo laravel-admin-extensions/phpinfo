@@ -1,7 +1,7 @@
 Outputs information about PHP's configuration
 ======
 
-The laravel-admin version of the `phpinfo()` function,, Inspired by [nova-phpinfo](https://github.com/davidpiesse/nova-phpinfo)
+The laravel-admin version of the `phpinfo()` function, Inspired by [nova-phpinfo](https://github.com/davidpiesse/nova-phpinfo)
 
 ## Screenshot
 
